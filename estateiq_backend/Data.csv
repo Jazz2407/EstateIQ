@@ -1,0 +1,254 @@
+﻿District,Zone / Taluk,Specific Area / Locality,Est. Price (₹/sq.ft),Plot Rate (₹/sq.ft),1 BHK (Est.),2 BHK (Est.),3 BHK (Est.),4 BHK (Est.),Plot (1200 sq.ft)
+Ariyalur,Ariyalur,Ariyalur Town / Market,"₹3,200","₹2,000",₹17.6 L,₹32 L,₹46 L,₹70 L,₹24 L
+Ariyalur,Ariyalur,Kallankurichi,"₹2,200",₹800,₹12 L,₹22 L,₹32 L,₹48 L,₹9.6 L
+Ariyalur,Jayankondam,Jayankondam Town,"₹2,800","₹1,500",₹15.4 L,₹28 L,₹40 L,₹61 L,₹18 L
+Chengalpattu,Suburbs,Guduvanchery,"₹4,200","₹3,200",₹23 L,₹42 L,₹60 L,₹92 L,₹38.4 L
+Chengalpattu,Suburbs,Mahindra World City,"₹4,500","₹3,000",₹24.5 L,₹45 L,₹65 L,₹99 L,₹36 L
+Chengalpattu,Suburbs,Maraimalai Nagar,"₹4,000","₹2,800",₹22 L,₹40 L,₹58 L,₹88 L,₹33.6 L
+Chengalpattu,Suburbs,Singaperumal Koil,"₹3,800","₹2,500",₹21 L,₹38 L,₹55 L,₹83 L,₹30 L
+Chengalpattu,OMR Ext,Thiruporur,"₹3,500","₹2,000",₹19 L,₹35 L,₹50 L,₹77 L,₹24 L
+Chengalpattu,OMR Ext,Kelambakkam,"₹4,200","₹3,000",₹23 L,₹42 L,₹60 L,₹92 L,₹36 L
+Chennai,Central,Anna Nagar (East/West),"₹15,500","₹18,000",₹85 L,₹1.55 Cr,₹2.2 Cr,₹3.4 Cr,₹2.1 Cr
+Chennai,Central,T. Nagar / Pondy Bazaar,"₹18,000","₹25,000",₹99 L,₹1.8 Cr,₹2.6 Cr,₹3.9 Cr,₹3.0 Cr
+Chennai,Central,Nungambakkam,"₹18,500","₹25,000",₹1.0 Cr,₹1.85 Cr,₹2.6 Cr,₹4.0 Cr,₹3.0 Cr
+Chennai,Central,Alwarpet,"₹20,000","₹25,000",₹1.1 Cr,₹2.0 Cr,₹2.9 Cr,₹4.4 Cr,₹3.0 Cr
+Chennai,Central,Mylapore / Santhome,"₹17,000","₹22,000",₹93 L,₹1.7 Cr,₹2.4 Cr,₹3.7 Cr,₹2.6 Cr
+Chennai,Central,Adyar / Gandhi Nagar,"₹16,500","₹20,000",₹90 L,₹1.65 Cr,₹2.4 Cr,₹3.6 Cr,₹2.4 Cr
+Chennai,Central,Besant Nagar,"₹18,500","₹22,000",₹1.0 Cr,₹1.85 Cr,₹2.6 Cr,₹4.0 Cr,₹2.6 Cr
+Chennai,Central,R.A. Puram / Boat Club,"₹19,000","₹24,000",₹1.0 Cr,₹1.9 Cr,₹2.7 Cr,₹4.1 Cr,₹2.8 Cr
+Chennai,Central,Kotturpuram,"₹19,000","₹24,000",₹1.0 Cr,₹1.9 Cr,₹2.7 Cr,₹4.1 Cr,₹2.8 Cr
+Chennai,Central,Egmore,"₹16,500","₹21,000",₹90 L,₹1.65 Cr,₹2.4 Cr,₹3.6 Cr,₹2.5 Cr
+Chennai,Central,Chetpet,"₹16,000","₹20,000",₹88 L,₹1.6 Cr,₹2.3 Cr,₹3.5 Cr,₹2.4 Cr
+Chennai,Central,Kilpauk,"₹15,000","₹18,500",₹82 L,₹1.5 Cr,₹2.1 Cr,₹3.3 Cr,₹2.2 Cr
+Chennai,Central,Purasawalkam,"₹12,000","₹15,000",₹66 L,₹1.2 Cr,₹1.7 Cr,₹2.6 Cr,₹1.8 Cr
+Chennai,Central,Royapettah,"₹15,000","₹19,000",₹82 L,₹1.5 Cr,₹2.1 Cr,₹3.3 Cr,₹2.2 Cr
+Chennai,Central,Triplicane,"₹10,500","₹13,000",₹57 L,₹1.05 Cr,₹1.5 Cr,₹2.3 Cr,₹1.5 Cr
+Chennai,Central,Gopalapuram,"₹17,000","₹22,000",₹93 L,₹1.7 Cr,₹2.4 Cr,₹3.7 Cr,₹2.6 Cr
+Chennai,Central,Mandaveli,"₹16,500","₹21,000",₹90 L,₹1.65 Cr,₹2.4 Cr,₹3.6 Cr,₹2.5 Cr
+Chennai,Central,Abiramapuram,"₹17,500","₹22,000",₹96 L,₹1.75 Cr,₹2.5 Cr,₹3.8 Cr,₹2.6 Cr
+Chennai,Central,Shenoy Nagar,"₹14,000","₹16,000",₹77 L,₹1.4 Cr,₹2.0 Cr,₹3.0 Cr,₹1.9 Cr
+Chennai,Central,Choolaimedu,"₹9,500","₹11,000",₹52 L,₹95 L,₹1.3 Cr,₹2.0 Cr,₹1.3 Cr
+Chennai,Central,Kodambakkam,"₹11,000","₹13,500",₹60 L,₹1.1 Cr,₹1.6 Cr,₹2.4 Cr,₹1.6 Cr
+Chennai,Central,West Mambalam,"₹10,500","₹13,000",₹57 L,₹1.05 Cr,₹1.5 Cr,₹2.3 Cr,₹1.5 Cr
+Chennai,Central,Ashok Nagar,"₹12,500","₹15,000",₹68 L,₹1.25 Cr,₹1.8 Cr,₹2.7 Cr,₹1.8 Cr
+Chennai,Central,K.K. Nagar,"₹11,500","₹13,000",₹63 L,₹1.15 Cr,₹1.6 Cr,₹2.5 Cr,₹1.5 Cr
+Chennai,Central,Vadapalani,"₹11,500","₹13,500",₹63 L,₹1.15 Cr,₹1.6 Cr,₹2.5 Cr,₹1.6 Cr
+Chennai,Central,Saligramam,"₹9,500","₹11,000",₹52 L,₹95 L,₹1.3 Cr,₹2.0 Cr,₹1.3 Cr
+Chennai,Central,Virugambakkam,"₹9,500","₹11,000",₹52 L,₹95 L,₹1.3 Cr,₹2.0 Cr,₹1.3 Cr
+Chennai,Central,Arumbakkam,"₹9,200","₹10,500",₹50 L,₹92 L,₹1.3 Cr,₹2.0 Cr,₹1.2 Cr
+Chennai,Central,Aminjikarai,"₹9,500","₹12,000",₹52 L,₹95 L,₹1.3 Cr,₹2.0 Cr,₹1.4 Cr
+Chennai,Central,Ayanavaram,"₹8,500","₹9,500",₹46 L,₹85 L,₹1.2 Cr,₹1.8 Cr,₹1.1 Cr
+Chennai,South,Velachery,"₹9,000","₹10,500",₹49 L,₹90 L,₹1.3 Cr,₹1.9 Cr,₹1.2 Cr
+Chennai,South,Thiruvanmiyur,"₹12,500","₹15,000",₹68 L,₹1.25 Cr,₹1.8 Cr,₹2.7 Cr,₹1.8 Cr
+Chennai,South,Kottivakkam,"₹11,000","₹13,000",₹60 L,₹1.1 Cr,₹1.6 Cr,₹2.4 Cr,₹1.5 Cr
+Chennai,South,Palavakkam,"₹10,500","₹12,500",₹57 L,₹1.05 Cr,₹1.5 Cr,₹2.3 Cr,₹1.5 Cr
+Chennai,South,Neelankarai,"₹10,500","₹13,000",₹57 L,₹1.05 Cr,₹1.5 Cr,₹2.3 Cr,₹1.5 Cr
+Chennai,South,Injambakkam,"₹11,000","₹14,000",₹60 L,₹1.1 Cr,₹1.6 Cr,₹2.4 Cr,₹1.6 Cr
+Chennai,South,Sholinganallur,"₹7,200","₹8,500",₹39 L,₹72 L,₹1.04 Cr,₹1.5 Cr,₹1.0 Cr
+Chennai,South,Thoraipakkam,"₹7,500","₹8,500",₹41 L,₹75 L,₹1.08 Cr,₹1.6 Cr,₹1.0 Cr
+Chennai,South,Perungudi,"₹9,500","₹11,000",₹52 L,₹95 L,₹1.3 Cr,₹2.0 Cr,₹1.3 Cr
+Chennai,South,Karapakkam,"₹6,800","₹7,500",₹37 L,₹68 L,₹98 L,₹1.4 Cr,₹90 L
+Chennai,South,Navalur,"₹5,500","₹5,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹60 L
+Chennai,South,Siruseri,"₹4,800","₹4,000",₹26 L,₹48 L,₹69 L,₹1.0 Cr,₹48 L
+Chennai,South,Padur,"₹4,500","₹3,500",₹24 L,₹45 L,₹65 L,₹99 L,₹42 L
+Chennai,South,Semmencherry,"₹6,500","₹6,000",₹35 L,₹65 L,₹94 L,₹1.4 Cr,₹72 L
+Chennai,South,Thalambur,"₹4,500","₹3,800",₹24 L,₹45 L,₹65 L,₹99 L,₹45 L
+Chennai,South,Madipakkam,"₹6,800","₹7,500",₹37 L,₹68 L,₹98 L,₹1.4 Cr,₹90 L
+Chennai,South,Adambakkam,"₹7,800","₹8,500",₹42 L,₹78 L,₹1.1 Cr,₹1.7 Cr,₹1.0 Cr
+Chennai,South,Nanganallur,"₹8,500","₹9,500",₹46 L,₹85 L,₹1.2 Cr,₹1.8 Cr,₹1.1 Cr
+Chennai,South,Guindy,"₹12,000","₹14,000",₹66 L,₹1.2 Cr,₹1.7 Cr,₹2.6 Cr,₹1.6 Cr
+Chennai,South,Alandur,"₹8,500","₹10,000",₹46 L,₹85 L,₹1.2 Cr,₹1.8 Cr,₹1.2 Cr
+Chennai,South,Pallikaranai,"₹6,800","₹7,200",₹37 L,₹68 L,₹98 L,₹1.4 Cr,₹86 L
+Chennai,South,Medavakkam,"₹6,200","₹5,500",₹34 L,₹62 L,₹89 L,₹1.3 Cr,₹66 L
+Chennai,South,Perumbakkam,"₹5,200","₹4,500",₹28 L,₹52 L,₹75 L,₹1.1 Cr,₹54 L
+Chennai,South,Sithalapakkam,"₹4,800","₹3,800",₹26 L,₹48 L,₹69 L,₹1.0 Cr,₹45 L
+Chennai,South,Kovilambakkam,"₹6,500","₹7,000",₹35 L,₹65 L,₹94 L,₹1.4 Cr,₹84 L
+Chennai,South,Keelkattalai,"₹6,000","₹6,500",₹33 L,₹60 L,₹87 L,₹1.3 Cr,₹78 L
+Chennai,South,Tambaram (West),"₹6,000","₹5,500",₹33 L,₹60 L,₹87 L,₹1.3 Cr,₹66 L
+Chennai,South,Tambaram (East),"₹5,800","₹5,000",₹31 L,₹58 L,₹84 L,₹1.2 Cr,₹60 L
+Chennai,South,Chromepet,"₹6,200","₹6,000",₹34 L,₹62 L,₹89 L,₹1.3 Cr,₹72 L
+Chennai,South,Pallavaram,"₹6,500","₹6,500",₹35 L,₹65 L,₹94 L,₹1.4 Cr,₹78 L
+Chennai,South,Pammal,"₹5,500","₹5,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹60 L
+Chennai,South,Anakaputhur,"₹4,200","₹3,200",₹23 L,₹42 L,₹60 L,₹92 L,₹38 L
+Chennai,South,Perungalathur,"₹5,500","₹5,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹60 L
+Chennai,South,Vandalur,"₹5,000","₹4,500",₹27 L,₹50 L,₹72 L,₹1.1 Cr,₹54 L
+Chennai,South,Urapakkam,"₹4,500","₹3,500",₹24 L,₹45 L,₹65 L,₹99 L,₹42 L
+Chennai,South,Guduvancheri,"₹4,200","₹3,200",₹23 L,₹42 L,₹60 L,₹92 L,₹38 L
+Chennai,South,Selaiyur,"₹5,800","₹5,500",₹31 L,₹58 L,₹84 L,₹1.2 Cr,₹66 L
+Chennai,South,Camp Road,"₹5,200","₹4,800",₹28 L,₹52 L,₹75 L,₹1.1 Cr,₹57 L
+Chennai,South,Chitlapakkam,"₹5,800","₹5,500",₹31 L,₹58 L,₹84 L,₹1.2 Cr,₹66 L
+Chennai,South,Hasthinapuram,"₹5,500","₹5,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹60 L
+Chennai,South,Mudichur,"₹4,500","₹3,500",₹24 L,₹45 L,₹65 L,₹99 L,₹42 L
+Chennai,West,Porur,"₹7,500","₹8,500",₹41 L,₹75 L,₹1.08 Cr,₹1.6 Cr,₹1.0 Cr
+Chennai,West,Ramapuram,"₹7,000","₹7,500",₹38 L,₹70 L,₹1.0 Cr,₹1.5 Cr,₹90 L
+Chennai,West,Manapakkam,"₹6,800","₹7,200",₹37 L,₹68 L,₹98 L,₹1.4 Cr,₹86 L
+Chennai,West,Mugalivakkam,"₹6,500","₹6,800",₹35 L,₹65 L,₹94 L,₹1.4 Cr,₹81 L
+Chennai,West,Valasaravakkam,"₹8,500","₹9,500",₹46 L,₹85 L,₹1.2 Cr,₹1.8 Cr,₹1.1 Cr
+Chennai,West,Alwarthirunagar,"₹7,500","₹8,500",₹41 L,₹75 L,₹1.08 Cr,₹1.6 Cr,₹1.0 Cr
+Chennai,West,Mogappair East,"₹8,500","₹9,500",₹46 L,₹85 L,₹1.2 Cr,₹1.8 Cr,₹1.1 Cr
+Chennai,West,Mogappair West,"₹8,200","₹9,000",₹45 L,₹82 L,₹1.1 Cr,₹1.7 Cr,₹1.0 Cr
+Chennai,West,Anna Nagar West Ext,"₹11,500","₹13,500",₹63 L,₹1.15 Cr,₹1.6 Cr,₹2.5 Cr,₹1.6 Cr
+Chennai,West,Ambattur,"₹5,800","₹4,500",₹32 L,₹58 L,₹84 L,₹1.2 Cr,₹54 L
+Chennai,West,Oragadam (Ambattur),"₹5,500","₹4,200",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹50 L
+Chennai,West,Padi,"₹6,000","₹5,500",₹33 L,₹60 L,₹87 L,₹1.3 Cr,₹66 L
+Chennai,West,Korattur,"₹6,500","₹6,500",₹35 L,₹65 L,₹94 L,₹1.4 Cr,₹78 L
+Chennai,West,Nolambur,"₹7,000","₹7,500",₹38 L,₹70 L,₹1.0 Cr,₹1.5 Cr,₹90 L
+Chennai,West,Ayanambakkam,"₹5,200","₹4,200",₹28 L,₹52 L,₹75 L,₹1.1 Cr,₹50 L
+Chennai,West,Ayappakkam,"₹4,800","₹4,000",₹26 L,₹48 L,₹69 L,₹1.0 Cr,₹48 L
+Chennai,West,Vanagaram,"₹6,500","₹6,000",₹35 L,₹65 L,₹94 L,₹1.4 Cr,₹72 L
+Chennai,West,Maduravoyal,"₹6,000","₹6,500",₹33 L,₹60 L,₹87 L,₹1.3 Cr,₹78 L
+Chennai,West,Nerkundram,"₹5,800","₹5,500",₹31 L,₹58 L,₹84 L,₹1.2 Cr,₹66 L
+Chennai,West,Koyambedu,"₹9,000","₹11,000",₹49 L,₹90 L,₹1.3 Cr,₹1.9 Cr,₹1.3 Cr
+Chennai,West,Iyyappanthangal,"₹6,200","₹5,800",₹34 L,₹62 L,₹89 L,₹1.3 Cr,₹69 L
+Chennai,West,Kattupakkam,"₹5,500","₹5,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹60 L
+Chennai,West,Poonamallee,"₹5,500","₹4,500",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹54 L
+Chennai,West,Thirumazhisai,"₹4,200","₹3,200",₹23 L,₹42 L,₹60 L,₹92 L,₹38 L
+Chennai,West,Avadi,"₹4,200","₹3,000",₹23 L,₹42 L,₹60 L,₹92 L,₹36 L
+Chennai,West,Pattabiram,"₹3,800","₹2,500",₹21 L,₹38 L,₹55 L,₹83 L,₹30 L
+Chennai,West,Thiruninravur,"₹3,500","₹2,500",₹19 L,₹35 L,₹50 L,₹77 L,₹30 L
+Chennai,West,Thiruverkadu,"₹4,800","₹4,000",₹26 L,₹48 L,₹69 L,₹1.0 Cr,₹48 L
+Chennai,West,Kundrathur,"₹4,500","₹3,500",₹24 L,₹45 L,₹65 L,₹99 L,₹42 L
+Chennai,West,Mangadu,"₹4,800","₹3,800",₹26 L,₹48 L,₹69 L,₹1.0 Cr,₹45 L
+Chennai,West,Gerugambakkam,"₹5,400","₹4,500",₹29 L,₹54 L,₹78 L,₹1.1 Cr,₹54 L
+Chennai,North,Perambur,"₹7,500","₹8,000",₹41 L,₹75 L,₹1.08 Cr,₹1.6 Cr,₹96 L
+Chennai,North,Kolathur,"₹6,800","₹7,500",₹37 L,₹68 L,₹98 L,₹1.4 Cr,₹90 L
+Chennai,North,Villivakkam,"₹7,500","₹8,500",₹41 L,₹75 L,₹1.08 Cr,₹1.6 Cr,₹1.0 Cr
+Chennai,North,Madhavaram,"₹5,500","₹4,800",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹57 L
+Chennai,North,Puzhal,"₹4,500","₹3,500",₹24 L,₹45 L,₹65 L,₹99 L,₹42 L
+Chennai,North,Red Hills,"₹3,800","₹2,500",₹21 L,₹38 L,₹55 L,₹83 L,₹30 L
+Chennai,North,Thiruvottiyur,"₹5,000","₹4,500",₹27 L,₹50 L,₹72 L,₹1.1 Cr,₹54 L
+Chennai,North,Tondiarpet,"₹6,500","₹7,000",₹35 L,₹65 L,₹94 L,₹1.4 Cr,₹84 L
+Chennai,North,Royapuram,"₹7,000","₹8,000",₹38 L,₹70 L,₹1.0 Cr,₹1.5 Cr,₹96 L
+Chennai,North,Washermanpet,"₹6,500","₹7,500",₹35 L,₹65 L,₹94 L,₹1.4 Cr,₹90 L
+Chennai,North,Vyasarpadi,"₹5,500","₹5,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹60 L
+Chennai,North,Moolakadai,"₹5,800","₹5,200",₹31 L,₹58 L,₹84 L,₹1.2 Cr,₹62 L
+Chennai,North,Manali,"₹4,200","₹3,000",₹23 L,₹42 L,₹60 L,₹92 L,₹36 L
+Chennai,North,Minjur,"₹3,200","₹2,000",₹17 L,₹32 L,₹46 L,₹70 L,₹24 L
+Coimbatore,Urban,RS Puram,"₹11,000","₹13,000",₹60 L,₹1.1 Cr,₹1.6 Cr,₹2.4 Cr,₹1.5 Cr
+Coimbatore,Urban,Gandhipuram,"₹8,200","₹9,500",₹45 L,₹82 L,₹1.2 Cr,₹1.8 Cr,₹1.1 Cr
+Coimbatore,Urban,Saravanampatti,"₹6,000","₹5,500",₹33 L,₹60 L,₹87 L,₹1.3 Cr,₹66 L
+Cuddalore,Town,Manjakuppam,"₹4,800","₹4,000",₹26 L,₹48 L,₹69 L,₹1.0 Cr,₹48 L
+Cuddalore,Town,Chidambaram,"₹4,000","₹3,000",₹22 L,₹40 L,₹58 L,₹88 L,₹36 L
+Dharmapuri,Town,Dharmapuri Town,"₹3,600","₹2,500",₹20 L,₹36 L,₹52 L,₹79 L,₹30 L
+Dindigul,Town,RM Colony,"₹5,500","₹5,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹60 L
+Erode,Town,Perundurai Road,"₹6,800","₹7,500",₹37 L,₹68 L,₹98 L,₹1.5 Cr,₹90 L
+Kallakurichi,Town,Kallakurichi,"₹3,200","₹2,000",₹17.5 L,₹32 L,₹46 L,₹70 L,₹24 L
+Kancheepuram,Town,Pillaiyarpalayam,"₹5,500","₹4,500",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹54 L
+Kanniyakumari,Town,Nagercoil (WCC),"₹6,500","₹8,000",₹35 L,₹65 L,₹94 L,₹1.4 Cr,₹96 L
+Karur,Town,Gandhigramam,"₹5,000","₹4,500",₹27.5 L,₹50 L,₹72 L,₹1.1 Cr,₹54 L
+Krishnagiri,Town,Hosur (Bagalur),"₹5,500","₹6,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹72 L
+Madurai,Town,Anna Nagar,"₹8,000","₹9,000",₹44 L,₹80 L,₹1.1 Cr,₹1.7 Cr,₹1.0 Cr
+Mayiladuthurai,Town,Koranad,"₹3,800","₹2,800",₹21 L,₹38 L,₹55 L,₹83 L,₹33.6 L
+Nagapattinam,Town,Nagapattinam,"₹3,200","₹2,200",₹17.6 L,₹32 L,₹46 L,₹70 L,₹26.4 L
+Namakkal,Town,Salem Road,"₹4,000","₹3,000",₹22 L,₹40 L,₹58 L,₹88 L,₹36 L
+Nilgiris,Town,Ooty,"₹9,500","₹12,000",₹52 L,₹95 L,₹1.3 Cr,₹2.0 Cr,₹1.4 Cr
+Perambalur,Town,New Bus Stand,"₹3,000","₹2,000",₹16.5 L,₹30 L,₹43 L,₹66 L,₹24 L
+Pudukkottai,Town,Machuvadi,"₹3,500","₹2,800",₹19 L,₹35 L,₹50 L,₹77 L,₹33.6 L
+Ramanathapuram,Town,Ramnad Town,"₹3,200","₹2,200",₹17.6 L,₹32 L,₹46 L,₹70 L,₹26.4 L
+Ranipet,Town,Ranipet Town,"₹3,600","₹2,500",₹20 L,₹36 L,₹52 L,₹79 L,₹30 L
+Salem,Town,Fairlands,"₹7,500","₹9,000",₹41 L,₹75 L,₹1.1 Cr,₹1.6 Cr,₹1.0 Cr
+Sivagangai,Town,Karaikudi,"₹4,200","₹3,500",₹23 L,₹42 L,₹60 L,₹92 L,₹42 L
+Tenkasi,Town,Courtallam,"₹4,500","₹3,500",₹24.5 L,₹45 L,₹65 L,₹99 L,₹42 L
+Thanjavur,Town,Medical College,"₹5,800","₹5,000",₹32 L,₹58 L,₹84 L,₹1.2 Cr,₹60 L
+Theni,Town,Allinagaram,"₹4,000","₹3,200",₹22 L,₹40 L,₹58 L,₹88 L,₹38.4 L
+Thiruvallur,Town,Thiruvallur,"₹4,200","₹3,500",₹23 L,₹42 L,₹60 L,₹92 L,₹42 L
+Thiruvarur,Town,Thiruvarur,"₹2,800","₹1,500",₹15.5 L,₹28 L,₹40 L,₹61 L,₹18 L
+Thoothukudi,City,Millerpuram,"₹6,500","₹5,800",₹36 L,₹65 L,₹94 L,₹1.4 Cr,₹69.6 L
+Thoothukudi,City,Chidambara Nagar,"₹5,500","₹5,000",₹30 L,₹55 L,₹80 L,₹1.2 Cr,₹60 L
+Thoothukudi,City,KTC Nagar,"₹3,800","₹2,500",₹21 L,₹38 L,₹55 L,₹83 L,₹30 L
+Thoothukudi,City,Muthammal Colony,"₹4,500","₹3,800",₹25 L,₹45 L,₹65 L,₹99 L,₹45.6 L
+Thoothukudi,City,Bryant Nagar,"₹4,800","₹4,200",₹26.5 L,₹48 L,₹70 L,₹1.05 Cr,₹50.4 L
+Thoothukudi,City,Palayamkottai Rd,"₹5,800","₹5,500",₹32 L,₹58 L,₹84 L,₹1.25 Cr,₹66 L
+Thoothukudi,City,V.E. Road,"₹6,500","₹7,000",₹36 L,₹65 L,₹94 L,₹1.4 Cr,₹84 L
+Thoothukudi,City,Toovipuram,"₹5,500","₹5,200",₹30 L,₹55 L,₹80 L,₹1.2 Cr,₹62.4 L
+Thoothukudi,City,Anna Nagar,"₹4,500","₹3,800",₹25 L,₹45 L,₹65 L,₹99 L,₹45.6 L
+Thoothukudi,City,Ettayapuram Rd,"₹4,200","₹3,500",₹23 L,₹42 L,₹60 L,₹92 L,₹42 L
+Thoothukudi,City,Tiruchendur Rd,"₹4,000","₹3,500",₹22 L,₹40 L,₹58 L,₹88 L,₹42 L
+Thoothukudi,City,P & T Colony,"₹4,000","₹3,200",₹22 L,₹40 L,₹58 L,₹88 L,₹38.4 L
+Thoothukudi,City,State Bank Colony,"₹5,200","₹4,500",₹28.5 L,₹52 L,₹75 L,₹1.15 Cr,₹54 L
+Thoothukudi,City,Teachers Colony,"₹4,600","₹4,000",₹25 L,₹46 L,₹66 L,₹1.0 Cr,₹48 L
+Thoothukudi,City,George Road,"₹6,000","₹6,500",₹33 L,₹60 L,₹87 L,₹1.3 Cr,₹78 L
+Thoothukudi,City,Caldwell Colony,"₹3,800","₹3,000",₹21 L,₹38 L,₹55 L,₹83 L,₹36 L
+Thoothukudi,City,Lions Town,"₹3,600","₹3,000",₹20 L,₹36 L,₹52 L,₹79 L,₹36 L
+Thoothukudi,City,Alagesapuram,"₹4,200","₹3,500",₹23 L,₹42 L,₹60 L,₹92 L,₹42 L
+Thoothukudi,City,Polpettai,"₹4,200","₹3,600",₹23 L,₹42 L,₹60 L,₹92 L,₹43.2 L
+Thoothukudi,City,Cruz Puram,"₹5,200","₹4,800",₹28.5 L,₹52 L,₹75 L,₹1.15 Cr,₹57.6 L
+Thoothukudi,City,Davispuram,"₹3,500","₹2,800",₹19 L,₹35 L,₹50 L,₹77 L,₹33.6 L
+Thoothukudi,City,Arockiapuram,"₹3,200","₹2,000",₹17.6 L,₹32 L,₹46 L,₹70 L,₹24 L
+Thoothukudi,City,Muniyasamy Puram,"₹4,200","₹3,500",₹23 L,₹42 L,₹60 L,₹92 L,₹42 L
+Thoothukudi,City,Harbour Estate,"₹4,500","₹3,200",₹25 L,₹45 L,₹65 L,₹99 L,₹38.4 L
+Thoothukudi,City,Therespuram,"₹3,000","₹2,000",₹16.5 L,₹30 L,₹43 L,₹66 L,₹24 L
+Thoothukudi,City,Muthiahpuram,"₹3,000","₹1,800",₹16.5 L,₹30 L,₹43 L,₹66 L,₹21.6 L
+Thoothukudi,City,Spic Nagar,"₹3,500","₹2,500",₹19 L,₹35 L,₹50 L,₹77 L,₹30 L
+Thoothukudi,City,Athimarapatti,"₹2,800","₹1,500",₹15.4 L,₹28 L,₹40 L,₹61 L,₹18 L
+Thoothukudi,City,Korampallam,"₹2,800","₹1,800",₹15.5 L,₹28 L,₹40 L,₹61 L,₹21.6 L
+Thoothukudi,City,Sankaraperi,"₹2,500","₹1,500",₹13.7 L,₹25 L,₹36 L,₹55 L,₹18 L
+Thoothukudi,City,Mapilaiurani,"₹2,500","₹1,200",₹13.7 L,₹25 L,₹36 L,₹55 L,₹14.4 L
+Thoothukudi,City,Pudukottai (Thoothukudi),"₹2,200",₹800,₹12 L,₹22 L,₹32 L,₹48 L,₹9.6 L
+Thoothukudi,City,Vagaikulam,"₹1,800","₹1,000",₹10 L,₹18 L,₹26 L,₹40 L,₹12 L
+Thoothukudi,City,Krishnarajapuram,"₹4,000","₹3,500",₹22 L,₹40 L,₹58 L,₹88 L,₹42 L
+Thoothukudi,Town,Kovilpatti Town,"₹3,200","₹1,200",₹17.5 L,₹32 L,₹46 L,₹70 L,₹14.4 L
+Thoothukudi,Town,Tiruchendur Town,"₹4,000","₹3,500",₹22 L,₹40 L,₹58 L,₹88 L,₹42 L
+Thoothukudi,Town,Kayathar,"₹2,500","₹1,200",₹13.7 L,₹25 L,₹36 L,₹55 L,₹14.4 L
+Thoothukudi,Town,Ottapidaram,"₹2,200","₹1,000",₹12 L,₹22 L,₹32 L,₹48 L,₹12 L
+Thoothukudi,Town,Sathankulam,"₹2,500","₹1,200",₹13.7 L,₹25 L,₹36 L,₹55 L,₹14.4 L
+Thoothukudi,Town,Ettayapuram Town,"₹2,800","₹1,500",₹15.4 L,₹28 L,₹40 L,₹61 L,₹18 L
+Thoothukudi,Town,Vilathikulam,"₹2,400","₹1,000",₹13 L,₹24 L,₹34 L,₹52 L,₹12 L
+Thoothukudi,Town,Srivaikuntam,"₹2,600","₹1,200",₹14.3 L,₹26 L,₹37 L,₹57 L,₹14.4 L
+Thoothukudi,Town,Sawyerpuram,"₹1,800",₹600,₹10 L,₹18 L,₹26 L,₹40 L,₹7.2 L
+Thoothukudi,Town,Nazareth,"₹2,500","₹1,000",₹13.7 L,₹25 L,₹36 L,₹55 L,₹12 L
+Thoothukudi,Town,Eral,"₹2,200",₹900,₹12 L,₹22 L,₹32 L,₹48 L,₹10.8 L
+Thoothukudi,Town,Udangudi,"₹2,400","₹1,000",₹13 L,₹24 L,₹34 L,₹52 L,₹12 L
+Thoothukudi,Town,Arumuganeri,"₹2,600","₹1,200",₹14.3 L,₹26 L,₹37 L,₹57 L,₹14.4 L
+Tiruchirappalli,City,Thillai Nagar,"₹10,000","₹12,000",₹55 L,₹1.0 Cr,₹1.4 Cr,₹2.2 Cr,₹1.4 Cr
+Tirunelveli,City,Maharaja Nagar,"₹6,800","₹7,500",₹37 L,₹68 L,₹98 L,₹1.5 Cr,₹90 L
+Tirunelveli,City,Palayamkottai,"₹6,200","₹7,000",₹34 L,₹62 L,₹90 L,₹1.3 Cr,₹84 L
+Tirunelveli,City,"NGO Colony (A, B, C)","₹8,500","₹6,000",₹46 L,₹85 L,₹1.2 Cr,₹1.8 Cr,₹72 L
+Tirunelveli,City,KTC Nagar,"₹4,800","₹2,800",₹26 L,₹48 L,₹70 L,₹1.0 Cr,₹33 L
+Tirunelveli,City,Perumalpuram,"₹7,200","₹6,500",₹39 L,₹72 L,₹1.0 Cr,₹1.5 Cr,₹78 L
+Tirunelveli,City,Tirunelveli Town,"₹5,500","₹8,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹96 L
+Tirunelveli,City,Tirunelveli Junction,"₹5,800","₹8,500",₹32 L,₹58 L,₹84 L,₹1.25 Cr,₹1.0 Cr
+Tirunelveli,City,Vannarpettai,"₹6,000","₹7,500",₹33 L,₹60 L,₹87 L,₹1.3 Cr,₹90 L
+Tirunelveli,City,Melapalayam,"₹4,200","₹3,500",₹23 L,₹42 L,₹60 L,₹92 L,₹42 L
+Tirunelveli,City,Pettai,"₹3,800","₹2,200",₹21 L,₹38 L,₹55 L,₹83 L,₹26.5 L
+Tirunelveli,City,Thachanallur,"₹3,500","₹2,500",₹19 L,₹35 L,₹50 L,₹77 L,₹30 L
+Tirunelveli,City,Rahmath Nagar,"₹5,500","₹4,800",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹57 L
+Tirunelveli,City,V.M. Chatram,"₹5,400","₹4,500",₹29 L,₹54 L,₹78 L,₹1.2 Cr,₹54 L
+Tirunelveli,City,Reddiarpatti,"₹4,500","₹2,500",₹25 L,₹45 L,₹65 L,₹99 L,₹30 L
+Tirunelveli,City,Tuckerammalpuram,"₹4,800","₹3,200",₹26 L,₹48 L,₹70 L,₹1.0 Cr,₹38 L
+Tirunelveli,City,Thyagaraja Nagar,"₹6,800","₹6,200",₹37 L,₹68 L,₹98 L,₹1.5 Cr,₹74 L
+Tirunelveli,City,Vasantha Nagar,"₹5,000","₹4,200",₹27.5 L,₹50 L,₹72 L,₹1.1 Cr,₹50 L
+Tirunelveli,City,Shanthi Nagar,"₹5,200","₹4,500",₹28.5 L,₹52 L,₹75 L,₹1.15 Cr,₹54 L
+Tirunelveli,City,Thirumal Nagar,"₹4,200","₹3,000",₹23 L,₹42 L,₹60 L,₹92 L,₹36 L
+Tirunelveli,City,Anbu Nagar,"₹6,500","₹4,000",₹35.7 L,₹65 L,₹94 L,₹1.4 Cr,₹48 L
+Tirunelveli,City,Kamaraj Nagar,"₹7,500","₹6,800",₹41 L,₹75 L,₹1.1 Cr,₹1.6 Cr,₹81 L
+Tirunelveli,City,Hattinagar,"₹4,600","₹3,500",₹25 L,₹46 L,₹66 L,₹1.0 Cr,₹42 L
+Tirunelveli,City,Krishnapuram,"₹5,200","₹4,100",₹28 L,₹52 L,₹75 L,₹1.1 Cr,₹49 L
+Tirunelveli,City,Munnirpallam,"₹4,100","₹2,500",₹22 L,₹41 L,₹59 L,₹90 L,₹30 L
+Tirunelveli,City,Sankarnagar,"₹3,800","₹2,200",₹21 L,₹38 L,₹55 L,₹83 L,₹26.5 L
+Tirunelveli,City,Thalaiyuthu,"₹3,500","₹2,000",₹19 L,₹35 L,₹50 L,₹77 L,₹24 L
+Tirunelveli,City,Gangaikondan,"₹2,200",₹800,₹12 L,₹22 L,₹32 L,₹48 L,₹9.6 L
+Tirunelveli,City,Naranammalpuram,"₹3,200","₹1,800",₹17.6 L,₹32 L,₹46 L,₹70 L,₹21.6 L
+Tirunelveli,City,Palayapettai,"₹3,400","₹2,000",₹18.7 L,₹34 L,₹49 L,₹75 L,₹24 L
+Tirunelveli,City,Thimmarajapuram,"₹4,000","₹2,800",₹22 L,₹40 L,₹58 L,₹88 L,₹33.6 L
+Tirunelveli,City,Kulanthaivel Nagar,"₹4,800","₹3,500",₹26.4 L,₹48 L,₹70 L,₹1.05 Cr,₹42 L
+Tirunelveli,Town,Ambasamudram,"₹3,200","₹1,500",₹17.6 L,₹32 L,₹46 L,₹70 L,₹18 L
+Tirunelveli,Town,Vallioor,"₹4,200","₹2,000",₹23 L,₹42 L,₹60 L,₹92 L,₹24 L
+Tirunelveli,Town,Nanguneri,"₹3,500","₹1,200",₹19 L,₹35 L,₹50 L,₹77 L,₹14.5 L
+Tirunelveli,Town,Cheranmahadevi,"₹3,000","₹1,500",₹16.5 L,₹30 L,₹43 L,₹66 L,₹18 L
+Tirunelveli,Town,Kalakkad,"₹2,800","₹1,200",₹15.4 L,₹28 L,₹40 L,₹61 L,₹14.4 L
+Tirunelveli,Town,Panagudi,"₹2,500","₹1,000",₹13.7 L,₹25 L,₹36 L,₹55 L,₹12 L
+Tirunelveli,Town,Vadakkuvalliyur,"₹3,800","₹1,800",₹21 L,₹38 L,₹55 L,₹83 L,₹21.6 L
+Tirunelveli,Town,Thisayanvilai,"₹3,200","₹1,500",₹17.6 L,₹32 L,₹46 L,₹70 L,₹18 L
+Tirunelveli,Town,Radhapuram,"₹2,500","₹1,000",₹13.7 L,₹25 L,₹36 L,₹55 L,₹12 L
+Tirunelveli,Town,Papanasam,"₹2,400","₹1,000",₹13 L,₹24 L,₹34 L,₹52 L,₹12 L
+Tirunelveli,Town,Mukkudal,"₹2,200",₹800,₹12 L,₹22 L,₹32 L,₹48 L,₹9.6 L
+Tirunelveli,Town,Veeravanallur,"₹2,400","₹1,000",₹13 L,₹24 L,₹34 L,₹52 L,₹12 L
+Tirunelveli,Town,Kallidaikurchi,"₹2,600","₹1,200",₹14.3 L,₹26 L,₹37 L,₹57 L,₹14.4 L
+Tirunelveli,Town,Vikramasingapuram,"₹2,500","₹1,000",₹13.7 L,₹25 L,₹36 L,₹55 L,₹12 L
+Tirupathur,Town,Tirupathur,"₹3,500","₹2,500",₹19 L,₹35 L,₹50 L,₹77 L,₹30 L
+Tiruppur,City,Avinashi Road,"₹6,000","₹6,500",₹33 L,₹60 L,₹87 L,₹1.3 Cr,₹78 L
+Tiruvannamalai,City,Girivalam,"₹5,500","₹6,000",₹30 L,₹55 L,₹79 L,₹1.2 Cr,₹72 L
+Vellore,City,Katpadi,"₹7,000","₹6,500",₹38.5 L,₹70 L,₹1.0 Cr,₹1.5 Cr,₹78 L
+Viluppuram,City,Viluppuram,"₹3,800","₹2,800",₹21 L,₹38 L,₹55 L,₹83 L,₹33.6 L
+Virudhunagar,Town,Sivakasi,"₹3,500","₹2,500",₹19 L,₹35 L,₹50 L,₹77 L,₹30 L
