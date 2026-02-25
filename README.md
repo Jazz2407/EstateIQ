@@ -25,6 +25,10 @@ This project is more than just code; it’s about Social Relevancy. By aligning 
 ⚙️ How to run it
   Backend: Head into /backend, install dependencies via pip, add your Supabase keys, and fire up the server with uvicorn main:app --reload.
   Frontend: Inside the /flutter_app folder, run flutter pub get. Make sure the API URL in main.dart points to your local IP, then hit flutter run.
+
+
+<img width="1919" height="909" alt="image" src="https://github.com/user-attachments/assets/02edb70b-57d8-43f0-abc0-867e62a18461" />
+
   
   
   
